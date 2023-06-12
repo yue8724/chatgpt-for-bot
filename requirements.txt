@@ -34,7 +34,7 @@ poe-api~=0.4.6
 
 regex~=2023.6.3
 httpx
-Quart==0.17.0
+Quart==0.18.4
 
 edge-tts
 wechatpy~=2.0.0a26
